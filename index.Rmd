@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "GS Jackson's R Blog"
 ---
 
-You're up and running!
+You are reading this and you cannot turn the page. 

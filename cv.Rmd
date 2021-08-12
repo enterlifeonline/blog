@@ -6,4 +6,34 @@ title: "CV"
 
 ## Header
 
-Say more about your CV here.
+Gary formally was Regional Director of System Integrators (SIs) and Technology Partners for Qlik across Asia Pacific (including Japan, Australia, and New Zealand), Gary led the drive for interactive and collaborative partnerships between global and regional SIs, Business Consulting firms, and Technology Partners. These included Deloitte, KPMG, PwC, Accenture, Wipro, Cloudera, Revolution Analytics, MapR, Intel, and many others.
+
+Prior to that he was the Principal for Big Data & Analytics Growth Markets, for Computer Sciences Corporation (CSC), supporting Latin America and Asia-Pacific traveling back and forth between São Paulo, Brasil and Hong Kong. Gary has also worked for SAS Institute as Head of Technology for Asia Pacific, South Africa, Europe, and North America for more than a decade.
+
+Gary holds a Bachelor of Science in Computer Information Systems, Information Technology and Computer Information Systems from DeVry University. He is a resident of both Hong Kong 香港 and Asheville, North Carolina.
+
+Television Appearances
+WLOS ABC (USA) - Blockstamped to stop “fake news” in upcoming 2020 political elections
+WLOS ABC (USA) - AI Writer to publish world’s first half machine written magazine
+TVB The Pearl Report (Hong Kong) “Wearable Wave” on wearable analytics
+CNBC Asia (Singapore) - Discussed wearable tech
+CNBC Asia (Hong Kong) - Would You Hire A MBA Graduate
+CNBC Asia (Hong Kong) - Twitter as a ‘conversation starter’ vs revenue creator
+One TV (Russia) - AI Writer
+Keynote Speaker Presentations
+“Introducing BFFs: Artificial Intelligence Using IBM Maximo Visual Inspection”
+“Immutable IP: Authenticating Ownership” - Proximity Conference New Orleans
+Blood, Sweat, and Natural Language Processing - Twitch
+“The Myth of BI” - Innovative Enterprise Singapore
+“Conversations as a Service” - ComputerWorld Hong Kong
+“Map of Me Analytics” - SAP Sapphire Madrid
+Technical Enablement Founder
+Founder of three data science academies across Asia-Pacific and assisted with the General Assembly’s initial data science and analytics curriculum in Hong Kong. Led the KPMG Hong Kong and Hong Kong University of Science and Technology (HKUST) to create a three month immersive Big Data Application competition sponsored by Qlik. In conjunction with the University of San Carlos (USC) in Cebu, the Philippines created a nine-week data science academy for Singapore VC funded Clicklab Ventures.
+
+Most recently, created QLX Institute Innovation Incubator out of Miami, Florida.
+
+General Assembly & Rackspace - “Take A Class, Take A Cloud” (2016)
+KPMG and Hong Kong University of Science Technology (2015)
+Clicklabs Ventures Data Science Academy - Cebu, Philippines (2015)
+AlphaEight School Analytics - Hong Kong (2011)
+Introducing Qualex Institute’s Innovation Incubator - United States (2020)
